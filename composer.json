@@ -1,5 +1,5 @@
 {
-  "name": "synortix/laravel-api-dictionary",
+  "name": "synortix/laravel-dictionary",
   "description": "Laravel API dictionary support and validation library. Humanize your Enum's in API resource responses.",
   "authors": [
     {
